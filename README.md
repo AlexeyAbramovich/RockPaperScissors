@@ -1,5 +1,5 @@
 # Functionality
-- Working Rock paper scissors game
+- Working Rock Paper Scissors game
 
 # Used technologies
 -  JavaScript
